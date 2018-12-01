@@ -19,6 +19,7 @@
   
 ## 1.4 버전
   코드네임은 A부터 시작하여 알파벳순으로 지어지며, 그 이름이 모두 디저트 이름이다.
+  
   ![default](https://user-images.githubusercontent.com/43702356/49329878-4fbfc680-f5c9-11e8-88da-b6ac5804028a.PNG)
 
 ## 1.5 장점
